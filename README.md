@@ -1,10 +1,13 @@
 # Objective
-Creation of storyboarding, test cases and UML diagrams for development of a mobile application for a food ordering process.
+Creation of storyboarding, test cases, UML diagrams, database design and UI/UX for development of a mobile application for a food ordering process.
 
 # Built With
-- Power Designer
-- Node
-- Python2
-- JDK
+- Javascript (node.js)
+  
+# Applications Used
 - React Native CLI
-- Atom
+- Visual Studio
+
+<br/>
+<br/>
+Last updated: June 2018
